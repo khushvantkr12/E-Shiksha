@@ -74,7 +74,7 @@ exports.contactUsEmail = (
     
     <body>
         <div class="container">
-            <a href="https://study-notion-theta-ten.vercel.app"><img class="logo"
+            <a href="https://e-shiksha-seven.vercel.app"><img class="logo"
                     src="https://i.ibb.co/2qDjrbF/E-Shiksha-4.png" alt="E-Shiksha Logo"></a>
             <div class="message">Contact Form Confirmation</div>
             <div class="body">
