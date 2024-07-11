@@ -18,17 +18,13 @@ Features
 Technologies Used
 The E-Shiksha is built using the following technologies:
 
-React JS, Tailwind
-- Front-End Development.
-Node JS, Express JS
-- Back-End Development.
-Razorpay
-- Payment Gateway.
-MongoDB
-- Database.
-- Run Command
- <br/>
-- npm run dev
+
+- Front-End Development-->React JS, Tailwind
+- Back-End Development-->Node JS, Express JS.
+Razorpay-->Payment Gateway. 
+MongoDB-->Database.
+- Run Command--> npm run dev
+
 
 For test Payment do'not use Scanner.Use Dummy Card:
 </br>
