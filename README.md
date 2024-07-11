@@ -21,8 +21,8 @@ The E-Shiksha is built using the following technologies:
 
 - Front-End Development-->React JS, Tailwind
 - Back-End Development-->Node JS, Express JS.
-Razorpay-->Payment Gateway. 
-MongoDB-->Database.
+- Razorpay-->Payment Gateway. 
+- MongoDB-->Database.
 - Run Command--> npm run dev
 
 
