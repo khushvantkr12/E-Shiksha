@@ -1,3 +1,40 @@
-
+Welcome to the E-Shiksha EdTech Platform Repository!
 
 video link:"https://github.com/khushvantkr12/E-Shiksha/assets/98275946/1b3ddf27-09c9-496c-82cc-25598136c99b"
+
+Features
+1. MERN Stack Architecture : The foundation of E-Shiksha is built upon the robust MERN (MongoDB, Express.js, React, Node.js) stack. This choice of technology ensures scalability, performance, and maintainability, allowing for a smooth and immersive user experience.
+
+2. Instructor Empowerment : Instructors are the heart of E-Shiksha. With this platform, educators can effortlessly craft and publish their courses, utilizing a user-friendly interface that allows them to upload course materials and videos. 
+
+3. Interactive Learning : Students enrolled on E-Shiksha gain access to a diverse range of courses. From Webdev to Datascience all content can be learn in e-shiksha platform.
+
+4. Seamless Course Purchase : Students can browse through the extensive catalog of courses, read descriptions, view course previews, and make secure payments. The platform's seamless payment gateway ensures a hassle-free purchasing process, enabling students to jumpstart their learning journey with ease.
+
+5. Personalized Dashboards : Both instructors and students have personalized dashboards that provide a snapshot of their engagement on the platform. Instructors can track the performance of their courses, monitor student enrollment, and gain insights into their earnings through comprehensible graphs and statistics.
+
+6. Financial Insights :  The platform displays real-time data on course sales, student enrollment, and income earned. This invaluable information assists instructors in refining their teaching strategies and creating content that resonates with their audience.
+
+Technologies Used
+The E-Shiksha is built using the following technologies:
+
+React JS, Tailwind
+- Front-End Development.
+Node JS, Express JS
+- Back-End Development.
+Razorpay
+- Payment Gateway.
+MongoDB
+- Database.
+- Run Command
+- npm run dev
+
+For test Payment do'not use Scanner.Use Dummy Card:
+Card:4111 1111 1111 1111
+Expiry: Any Future Date
+CVV: Any 3-digit number
+OTP: Any 4-6 digits random number
+
+Thank You❤️
+
+
