@@ -30,9 +30,13 @@ MongoDB
 - npm run dev
 
 For test Payment do'not use Scanner.Use Dummy Card:
+</br>
 Card:4111 1111 1111 1111
+</br>
 Expiry: Any Future Date
+</br>
 CVV: Any 3-digit number
+</br>
 OTP: Any 4-6 digits random number
 
 Thank You❤️
