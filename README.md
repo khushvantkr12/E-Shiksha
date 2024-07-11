@@ -27,7 +27,7 @@ Razorpay
 MongoDB
 - Database.
 - Run Command
-- <br/>
+ <br/>
 - npm run dev
 
 For test Payment do'not use Scanner.Use Dummy Card:
